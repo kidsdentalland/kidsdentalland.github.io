@@ -58,6 +58,13 @@ a:active {
   text-decoration: none !important;
 }
 
+.site-logo {
+    position: absolute;
+    z-index:1000;
+    top: -75px;
+    left: -400px;
+}
+
 .section{
   padding: 100px 0;
 }
@@ -99,7 +106,7 @@ a:active {
 --*/
 header {
   background: #fff;
-  padding: 20px 0;
+  padding: 0px;
 }
 header .navbar {
   margin-bottom: 0px;
@@ -264,7 +271,7 @@ font header .navbar-default .navbar-nav li a:hover {
 	Feature Start
 --*/
 #feature {
-  background: url("../img/featue-bg.jpg");
+  background: url("../img/stock-pediatric-dentist-office.jpg");
   background-position: 50% 94px;
   width: 100%;
   display: block;
@@ -378,11 +385,17 @@ font header .navbar-default .navbar-nav li a:hover {
 	features Start
 --*/
 #clients-logo-section {
-  padding-top: 30px;
-  padding-bottom: 75px;
+    position:absolute;
+    top: 300px;
+    right: 300px;
+  /* padding-top: 0px; */
+  /* padding-bottom: 150px; */
 }
 #clients-logo-section .clients-logo-img {
-  padding: 0px 50px;
+    position:absolute;
+    top: 300px;
+    right: 300px;
+  /* padding: 0px 50px; */
 }
 /*---------------------------------------------
 					Work Start
