@@ -12,8 +12,20 @@
   </url>
   
   <url>
+    <loc>https://kidsdentalland.org/dental_health/</loc>
+  </url>
+  
+  <url>
+    <loc>https://kidsdentalland.org/kids_dental_health/</loc>
+  </url>
+  
+  <url>
     <loc>https://kidsdentalland.org/</loc>
     <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://kidsdentalland.org/patients/</loc>
   </url>
   
   <url>
